@@ -1,4 +1,4 @@
 # Image_Processing
-Image Enhancement
+Image Enhancement and processing operations
 
 Ravi K
