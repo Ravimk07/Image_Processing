@@ -3,19 +3,15 @@
 Created on Sat Sep 15 12:07:05 2018
 
 @author: Ravi KAmble
-"""
+""" 
 
-import numpy as np
+import numpy as np 
 import cv2
-
+ 
 #img = cv2.imread('image1.jpg')
 #cv2.imshow('original',img)
 #cv2.waitKey(0)
 #cv2.destryAllWindows() 
-
-
-
-
 
 #%%%%%%%%%%%%%%%%%%%%% Laplacian Derivatives %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
