@@ -1,4 +1,4 @@
 # Image_Processing
 Image Enhancement and processing operations
 
-Ravi Kamble.
+Ravi M. Kamble.
