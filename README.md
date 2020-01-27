@@ -1,7 +1,6 @@
 # Image_Processing
 Image Enhancement and processing operations.
 
-Ravi M kamble,.........
-
+Ravi M kambl
 
 
