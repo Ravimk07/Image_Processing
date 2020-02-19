@@ -1,6 +1,5 @@
 # Image_Processing
-Image Enhancement and processing operations.
-
-Ravi ...........
+Image Enhancement and processing operations
+Ravi
 
 
