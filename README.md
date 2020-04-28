@@ -1,5 +1,4 @@
 # Image_Processing
-Image Enhancement and processing operations
-Rvai .
+Image Enhancement and processing operations..............
 
 
