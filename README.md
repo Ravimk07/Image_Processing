@@ -1,5 +1,4 @@
 # Image_Processing
-Image Enhancement and processing 
-.........................
+Image Enhancement and proces
 
 
