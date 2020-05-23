@@ -1,3 +1,3 @@
 # Image_Processing
-Image Enhancement and procss......
+Image Enhancement and procss
 
