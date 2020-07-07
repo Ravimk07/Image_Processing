@@ -1,4 +1,4 @@
 # Image_Processing
-Image Enhancement and procss
-ravi..............
+Image Enhancement an procss
+ravi....
 
